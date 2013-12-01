@@ -1,0 +1,14 @@
+Makefile
+lc3as
+lc3convert
+lc3os.obj
+lc3os.sym
+lc3sim
+lc3sim-tk
+lc3sim.o
+lex.lc3.c
+lex.lc3.o
+lex.lc3convert.c
+lex.lc3convert.o
+sim_symbol.o
+symbol.o
